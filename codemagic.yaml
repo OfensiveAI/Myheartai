@@ -10,13 +10,15 @@ workflows:
     scripts:
       - name: Install dependencies
         script: npm install
+      - name: Change directory to android
+        script: cd android
+      - name: Grant permission to Gradle wrapper
+        script: chmod +x ./gradlew
       - name: Build Android APK
-        script: |
-          cd android
-          ./gradlew assembleRelease
+        script: ./gradlew assembleRelease
     artifacts:
       - android/app/build/outputs/apk/release/*.apk
     publishing:
       email:
         recipients:
-          - your-email@example.com
+          - info@ofendaapictures.com
