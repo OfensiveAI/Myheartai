@@ -1,6 +1,6 @@
 {
-  "root": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\MyHeartAI",
-  "reactNativePath": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\MyHeartAI\\node_modules\\react-native",
+  "root": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI",
+  "reactNativePath": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\node_modules\\react-native",
   "reactNativeVersion": "0.77",
   "dependencies": {},
   "commands": [
@@ -160,7 +160,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\MyHeartAI"
+          "default": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI"
         },
         {
           "name": "--platform <string>",
@@ -447,7 +447,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\MyHeartAI\\ios",
+      "sourceDir": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\ios",
       "xcodeProject": {
         "name": "MyHeartAI.xcodeproj",
         "path": ".",
@@ -456,7 +456,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\MyHeartAI\\android",
+      "sourceDir": "C:\\Users\\emmaa\\Downloads\\vitejs-vite-yvvhen6e\\MyHeartAI\\android",
       "appName": "app",
       "packageName": "com.myheartai",
       "applicationId": "com.myheartai",
